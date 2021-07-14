@@ -1,0 +1,11 @@
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/bin/Debug/netcoreapp3.1/ASP.NET Core
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/bin/Debug/netcoreapp3.1/ASP.NET Core.deps.json
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/bin/Debug/netcoreapp3.1/ASP.NET Core.runtimeconfig.json
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/bin/Debug/netcoreapp3.1/ASP.NET Core.runtimeconfig.dev.json
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/bin/Debug/netcoreapp3.1/ASP.NET Core.dll
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/bin/Debug/netcoreapp3.1/ASP.NET Core.pdb
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/obj/Debug/netcoreapp3.1/ASP.NET Core.csprojAssemblyReference.cache
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/obj/Debug/netcoreapp3.1/ASP.NET Core.AssemblyInfoInputs.cache
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/obj/Debug/netcoreapp3.1/ASP.NET Core.AssemblyInfo.cs
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/obj/Debug/netcoreapp3.1/ASP.NET Core.dll
+/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/obj/Debug/netcoreapp3.1/ASP.NET Core.pdb
