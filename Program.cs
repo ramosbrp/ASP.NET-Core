@@ -1,12 +1,22 @@
 ﻿using System;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 
-namespace ASP.NET_Core
+namespace aula2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bem vindo ao Curso!");
-        }
-    }
+            var host = new WebHostBuilder()
+                .UseKestrel()
+                .Configure(app => {
+                    app.Run(context => context.Response.WriteAsync("Bem vindo"));
+                })
+                .Build();
+
+            host.Run();
+        }    
+    }     
 }

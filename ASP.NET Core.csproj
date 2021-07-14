@@ -6,4 +6,8 @@
     <RootNamespace>ASP.NET_Core</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+  </ItemGroup>
+
 </Project>

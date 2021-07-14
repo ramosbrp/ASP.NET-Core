@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PIICAMunRfzFvVZuKhi3nlFYWcczugFn5DvLr4gCM9IhVkGyR9hiQy3pGCxsOBFbD9pzAiDSlPf8rfZ8L1BLJA==",
+  "success": true,
+  "projectFilePath": "/home/brunoramos/Documentos/prog/dotNet/ASP.NET Core/ASP.NET Core.csproj",
+  "expectedPackageFiles": [
+    "/home/brunoramos/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.16/microsoft.netcore.app.host.linux-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
